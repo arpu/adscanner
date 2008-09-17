@@ -1,0 +1,8 @@
+needed Packages:
+libswscale-dev
+libavformat-dev
+
+
+Install on Ubuntu:
+sudo aptitude install libswscale-dev libavformat-dev
+
